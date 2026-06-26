@@ -1,4 +1,4 @@
-<h1 align="center">SoukScan: DevSecOps & Microservices E-Commerce Platform</h1>
+<h1 align="center">SoukScan: DevSecOps & Microservices</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java_Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
