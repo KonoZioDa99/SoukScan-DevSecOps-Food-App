@@ -74,5 +74,4 @@ A major focus of this project was shifting security left by embedding DevSecOps 
 
 To demonstrate the architectural and DevOps implementation, this repository includes:
 * 📄 `Rapport_Soukscan.pdf`: Comprehensive documentation of the project lifecycle, UML diagrams, and technical decisions.
-* 🖼️ `image_f3097c.jpg`: High-level system architecture diagram.
-* 📂 `devops_configs/`: Sanitized examples of the infrastructure-as-code and pipeline configurations, including CI/CD workflow templates and Docker configurations.
+* 🖼️ `architecture.jpg`: High-level system architecture diagram.
