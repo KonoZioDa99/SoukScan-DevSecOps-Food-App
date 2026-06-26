@@ -22,12 +22,12 @@
 
 ## 👔 Project Management & My Role
 
-This project was developed by an engineering team using the **Agile/Scrum methodology** through iterative sprints.
+To manage the complexity of this microservices development, our team adopted the **Agile/Scrum framework**. Although this was an academic project, we simulated a professional engineering environment to gain hands-on experience with modern software development lifecycles.
 
 **My Role: Product Owner & Technical Contributor**
-* Defined the product vision, created user stories, and managed the Product Backlog to ensure the platform met business and security requirements.
-* Prioritized sprint tasks and facilitated communication between frontend and backend developers to ensure seamless API integration.
-* Contributed technically to the architectural design and DevSecOps pipeline implementation.
+* Acted as the **Product Owner** to simulate the prioritization of business value: defined user stories, managed the Product Backlog, and ensured our sprints delivered functional increments.
+* Facilitated sprint planning and retrospectives to mirror professional team synchronization.
+* Contributed to the architectural design and spearheaded the integration of the DevSecOps pipeline to ensure the application met security-by-design standards.
 
 ---
 
